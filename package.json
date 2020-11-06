@@ -1,6 +1,6 @@
 {
   "name": "rantanplan",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A tiny in-memory-storage REST Server for tests",
   "main": "index.js",
   "bin":"bin/cli.js",
