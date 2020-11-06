@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const runServer = require('..');
 const defaultPort = 8080;
 
