@@ -3,10 +3,10 @@
   "version": "0.0.2",
   "description": "A tiny in-memory-storage REST Server for tests",
   "main": "index.js",
-  "bin":"bin/cli.js",
-  "man":"bin/cli.js --help",
+  "bin": "bin/cli.js",
+  "man": "bin/cli.js --help",
   "scripts": {
-    "start" : "node bin/cli.js",
+    "start": "node bin/cli.js",
     "test": "node test/index.spec.js",
     "build": "npm test && npm pack"
   },
