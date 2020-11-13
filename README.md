@@ -1,6 +1,10 @@
 # Ran-tan-plan
 
-This is a stupid and simple server meant to ease testing.
+## A REST HTTP Mock-sever
+
+![Build And Test](https://github.com/jimetevenard/rantanplan/workflows/Build%20And%20Test/badge.svg)
+
+This is a stupid and simple server, designed to ease unit or integration testing.
 
 It acts like an in-memory database for storing simple key-value pairs.  
 Data can be stored and read via REST call
